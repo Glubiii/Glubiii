@@ -3,8 +3,9 @@
 - 📚 I'm a System Development Analysis Student at Federal Bahia Institute 
 
 
-[![Glubiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glubiii)](https://github.com/anuraghazra/github-readme-stats)
+[![Glubiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glubiii&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+``` C/C++ ``` ``` Python ```
 
 <!--
 **Glubiii/Glubiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
